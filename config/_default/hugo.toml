@@ -2,9 +2,9 @@
 # Refer to the theme docs for more details about each of these parameters.
 # https://blowfish.page/docs/getting-started/
 
-baseURL = 'https://github.com/m03906990/DemoTemco/'
-defaultContentLanguage = "en"
-title = "DemoTemco"
+baseURL = 'https://example.org/'
+locale = 'en-us'
+title = 'DemoTemco'
 
 theme = "blowfish"
 
@@ -70,3 +70,7 @@ enableEmoji = true
       name = 'fragmentrefs'
       type = 'fragments'
       weight = 10
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
