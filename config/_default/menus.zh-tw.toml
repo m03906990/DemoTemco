@@ -12,23 +12,23 @@
 
 [[main]]
   name = "Blog"
-  pageRef = "posts"
+  pageRef = "zh-tw/posts"
   weight = 10
 
 [[main]]
   name = "Project"
-  pageRef = ""
+  pageRef = "zh-tw/projects"
   weight = 20
 
 [[main]]
   name = "About"
-  pageRef = "about"
+  pageRef = "zh-tw/about"
   weight = 30
 
 [[main]]
   name = "Contact"
   parent = "About"
-#  pageRef = "posts"
+#  pageRef = "zh-tw/posts"
 #  weight = 20
 
 #[[main]]
