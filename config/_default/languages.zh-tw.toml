@@ -1,7 +1,6 @@
 disabled = false
 
 locale = "zh-tw"
-contentDir = "content/zh-tw"
 label = "Chinese"
 weight = 1
 title = "Demo Temco"

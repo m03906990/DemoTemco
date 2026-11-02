@@ -1,7 +1,6 @@
 disabled = false
 
 locale = "en"
-contentDir = "content/en"
 label = "English"
 weight = 1
 title = "Demo Temco"
